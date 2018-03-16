@@ -1,0 +1,64 @@
+a:link{
+    text-decoration: none;
+}
+img {
+    width: 100%;
+    height: 91%;
+    margin: 0;
+    top: 0;
+}
+.menubar p{
+    float: right;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 1%;
+}
+.menubar a{
+    color: white;
+    font-size: 148%;
+}
+.menubar{
+    top: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    position: fixed;
+}
+.menubar h1{
+    float: left;
+    width: 12vw;
+    padding: 1%;
+    color: sandybrown;
+    margin: 1%;
+}
+p:hover{
+    background-color: rgba(26, 24, 24, 0.733);
+    color: rgb(252, 252, 252);
+}
+.projects{
+    margin-top: 3%; 
+    height: 30vw;
+}
+.projects h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.projects h2{
+    text-align: center;
+}
+.projects a{
+    width: 60vw;
+    float: left;
+    text-align: center;
+}
+.about{
+    top: 4%;
+}
+body{
+    margin: 0;
+}
