@@ -40,24 +40,20 @@ p:hover{
     background-color: rgba(26, 24, 24, 0.733);
     color: rgb(252, 252, 252);
 }
-.projects{
-    margin-top: 3%; 
-    height: 30vw;
-}
-.projects h1{
-    text-align: center;
-    text-transform: uppercase;
-}
-.projects h2{
-    text-align: center;
-}
-.projects a{
-    width: 60vw;
-    float: left;
-    text-align: center;
-}
 .about{
     top: 4%;
+}
+.footer h3{
+    margin: 0;
+    text-align: center;
+}
+.footer{
+    color: white;
+    background-color: black;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 body{
     margin: 0;
