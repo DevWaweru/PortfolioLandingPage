@@ -81,7 +81,7 @@ p:hover{
 .container{
     padding-top: 2%;
     padding-bottom: 2%;
-    height: 60vh;
+    height: 69.9vh;
 }
 .container2 h1{
     padding-right: 15px;
@@ -92,7 +92,7 @@ p:hover{
 }
 .about{
     padding-left: 5%;
-    margin-left: 10%;
+    margin-left: 5%;
     width: 80vw;
 }
 .container2{    
@@ -126,7 +126,7 @@ p{
     }
     .container{
         background-color: rgba(128, 128, 128, 0.123);
-        height: 50vh;
+        height: 58vh;
     }
     .rows{
         padding-right: 0;
@@ -148,7 +148,7 @@ p{
         text-align: center;
     }
     p{
-        font-size: 18px;
+        font-size: 17px;
     }
     #education{
         width: 30vw;
@@ -156,5 +156,8 @@ p{
     }
     #education h2{
         text-align: center;
+    }
+    #job{
+        padding-left: 15%;
     }
 }
