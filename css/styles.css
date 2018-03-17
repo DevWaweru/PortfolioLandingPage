@@ -40,6 +40,24 @@ p:hover{
     background-color: rgba(26, 24, 24, 0.733);
     color: rgb(252, 252, 252);
 }
+.projectstitle{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+h1{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+h2{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
 .about{
     top: 4%;
 }
