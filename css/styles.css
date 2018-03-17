@@ -142,11 +142,13 @@ p{
     }
     #why{
         width: 30%; 
-        padding-left: 60%;
-    
+        padding-left: 60%;    
     }
     #why h2{
         text-align: center;
+    }
+    p{
+        font-size: 18px;
     }
     #education{
         width: 30vw;
