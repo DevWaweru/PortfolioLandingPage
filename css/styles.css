@@ -8,8 +8,6 @@ a:link{
     color: blue;
 }
 .rows{
-    display: flex;
-    justify-content: right;
     width: 90vw;
     height: 40vw;
     margin-left: 7%;
@@ -19,9 +17,6 @@ a:link{
 }
 .columns{
     float: left;
-    width: 25vw;
-    height: 34vh;
-    margin-left: 3%;    
 }
 .columns a{
     width: 27vw;
@@ -87,7 +82,6 @@ p:hover{
     background-color: rgba(128, 128, 128, 0.116);
     padding-top: 2%;
     padding-bottom: 2%;
-    height: 60vh;
 }
 .container2 h1{
     padding-right: 15px;
@@ -119,7 +113,7 @@ p:hover{
     padding-left: 5%;
     padding-right: 5%;
     margin-left: 10%;
-    width: 
+    width: 80vw;
 }
 .container2{
     margin-top: 2%;
@@ -143,4 +137,12 @@ p{
 }
 body{
     margin: 0;
+}
+@media (min-width: 1280px){
+    .columns{
+        float: left;
+        width: 25vw;
+        height: 34vh;
+        margin-left: 3%;    
+    }
 }
