@@ -101,10 +101,18 @@ p:hover{
     margin-right: 0;
 }
 #why{
-    margin-left: 7%; 
+    padding-left: 30%; 
+
 }
 #why h2{
     width: 50vw;
+    text-align: center;
+}
+#education{
+    width: 30vw;
+    padding-left: 60%;
+}
+#education h2{
     text-align: center;
 }
 .about{
