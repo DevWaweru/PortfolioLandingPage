@@ -95,11 +95,6 @@ p:hover{
     margin-left: 10%;
     width: 80vw;
 }
-#why p{
-    width: 50vw;
-    margin-right: 0;
-}
-
 .container2{    
     margin-bottom: 4%;
 }
@@ -146,11 +141,11 @@ p{
         text-align: center;
     }
     #why{
-        padding-left: 30%; 
+        width: 30%; 
+        padding-left: 60%;
     
     }
     #why h2{
-        width: 50vw;
         text-align: center;
     }
     #education{
