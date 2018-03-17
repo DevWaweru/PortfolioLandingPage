@@ -41,8 +41,8 @@ p:hover{
     color: rgb(252, 252, 252);
 }
 .projectstitle{
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 h1{
     padding-right: 15px;
@@ -58,8 +58,16 @@ h2{
     margin-left: auto;
     text-align: center;
 }
-.about{
-    top: 4%;
+.rows{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: left;
+    border: solid;
+}
+ul{
+    list-style-type: none;
 }
 .footer h3{
     margin: 0;
