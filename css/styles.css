@@ -81,7 +81,7 @@ p:hover{
 .container{
     padding-top: 2%;
     padding-bottom: 2%;
-    height: 120vh;
+    height: 75vh;
 }
 .container2 h1{
     padding-right: 15px;
@@ -92,7 +92,6 @@ p:hover{
 }
 .about{
     padding-left: 5%;
-    padding-right: 5%;
     margin-left: 10%;
     width: 80vw;
 }
@@ -133,6 +132,9 @@ p{
     .container{
         background-color: rgba(128, 128, 128, 0.123);
         height: 65vh;
+    }
+    .rows{
+        padding-right: 0;
     }
 }
 @media (min-width: 1040px){
