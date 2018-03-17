@@ -5,20 +5,21 @@ a:hover{
     zoom: 1.2;
     transition-delay: 2s;
 }
-div{
-    display: block;
-}
-.rows a{
+.rows{
     display: flex;
     justify-content: right;
-    align-items: flex-start;
-    padding: 12px;
-    width: 70vw;
+    width: 90vw;
+    height: 40vw;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 .columns{
     float: left;
-    width: 30vw;
-    padding-left: 2%;
+    width: 25vw;
+    height: 34vh;
+    margin-left: 3%;    
 }
 .columns a{
     width: 27vw;
@@ -80,19 +81,33 @@ p:hover{
     margin-left: auto;
     text-align: center;
 }
-.footer h3{
-    margin: 0;
-    text-align: center;
-}
 .container{
     background-color: rgba(128, 128, 128, 0.116);
     padding-top: 2%;
     padding-bottom: 2%;
     height: 60vh;
 }
+.container2 h1{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.container2 h2{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
 .container2{
     margin-top: 2%;
     padding-top: 2%
+}
+.footer h3{
+    margin: 0;
+    text-align: center;
 }
 .footer{
     color: white;
